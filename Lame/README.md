@@ -6,6 +6,7 @@ Lame(Pawned): https://www.hackthebox.eu/achievement/machine/423459/1
 nmap -T4 -p- -A 10.10.10.3
 ```
 <img src="screenshots/1.png" width="800" height="500" >
+
 2. From the above scan, it is evident that ports 139 and 445 are open. As a result, we can begin enumerating for SMB vulnerability. To begin SMB enumeration, we shall use Metasploit framework:
 ```bash
 msfconsole
