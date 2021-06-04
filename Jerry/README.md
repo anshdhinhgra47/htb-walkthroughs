@@ -1,2 +1,2 @@
-
-https://www.hackthebox.eu/achievement/machine/423459/144
+# Jerry-walkthrough
+Jerry(Pawned): https://www.hackthebox.eu/achievement/machine/423459/144
